@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "何度も",
+  "base_artist": "Thelma Aoyama",
+  "createdAt": "2026-01-06T15:42:25.452436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "何度も",
+      "artist": "chouchou merged syrups.",
+      "has_synced": true,
+      "path": "select/01_何度も_chouchou_merged_syrups..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "何度も",
+      "artist": "RAM WIRE",
+      "has_synced": true,
+      "path": "select/02_何度も_RAM_WIRE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "何度も",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/03_何度も_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "何度も",
+      "artist": "青山テルマ",
+      "has_synced": false,
+      "path": "select/04_何度も_青山テルマ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "何度も",
+      "artist": "Thelma Aoyama",
+      "has_synced": true,
+      "path": "select/05_何度も_Thelma_Aoyama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "今まで何度も(アルバムミックス)",
+      "artist": "The Mass Missile",
+      "has_synced": false,
+      "path": "select/06_今まで何度も(アルバムミックス)_The_Mass_Missile.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "何度も - Nandomo",
+      "artist": "Thelma Aoyama",
+      "has_synced": true,
+      "path": "select/07_何度も_-_Nandomo_Thelma_Aoyama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "何度も",
+      "artist": "Aoyama, Thelma",
+      "has_synced": false,
+      "path": "select/08_何度も_Aoyama,_Thelma.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "何度も",
+      "artist": "青山 テルマ",
+      "has_synced": false,
+      "path": "select/pl_01_何度も_青山_テルマ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "何度も",
+      "artist": "青山 テルマ",
+      "has_synced": false,
+      "path": "select/pl_02_何度も_青山_テルマ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "何度も",
+      "artist": "青山 テルマ",
+      "has_synced": false,
+      "path": "select/pl_03_何度も_青山_テルマ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "何度も",
+      "artist": "青山 テルマ",
+      "has_synced": false,
+      "path": "select/pl_04_何度も_青山_テルマ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "何度も",
+      "artist": "青山 テルマ",
+      "has_synced": false,
+      "path": "select/pl_05_何度も_青山_テルマ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "何度も",
+      "artist": "青山 テルマ",
+      "has_synced": false,
+      "path": "select/pl_06_何度も_青山_テルマ.txt"
+    }
+  ]
+}
